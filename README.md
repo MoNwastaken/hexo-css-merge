@@ -1,2 +1,2 @@
-# hexo-css-merge
-A hexo plugin to merge and minify css
+# hexo-css-merge 
+![release](https://badgen.net/github/release/MoNwastaken/hexo-css-merge)
