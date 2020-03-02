@@ -1,6 +1,7 @@
 # hexo-css-merge 
-![version](https://badgen.net/badge/version/released/green) 
-![npm](https://badgen.net/badge/version-number/1.0.1/blue)
+![released](https://badgen.net/badge/version/released/green) 
+![1.0.1](https://badgen.net/badge/version-number/1.0.1/blue)
+[:school_satchel:NPM](https://www.npmjs.com/package/hexo-css-merge)
 <br/>This plugin is based on [hexo-clean-css](https://github.com/hexojs/hexo-clean-css) and [hexo-css-merge-script](https://github.com/hexojs/hexo-clean-css)
 # How to use
 - Install
