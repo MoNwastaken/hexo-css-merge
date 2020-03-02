@@ -1,7 +1,6 @@
 # hexo-css-merge 
 ![released](https://badgen.net/badge/version/released/green) 
-![1.0.3](https://badgen.net/badge/version-number/1.0.3/blue)
-[:school_satchel:NPM](https://www.npmjs.com/package/hexo-css-merge)
+[![npm version](https://badge.fury.io/js/hexo-css-merge.svg)](https://badge.fury.io/js/hexo-css-merge)
 <br/>This plugin is based on [hexo-clean-css](https://github.com/hexojs/hexo-clean-css) and [hexo-css-merge-script](https://github.com/MoNwastaken/hexo-css-merge-script)
 # How to use
 - [Install](#install)
@@ -58,3 +57,4 @@ The added path should start without `/` and end with `/` or else it won't work
 ```
 themes/landscape/source/css/
 ```
+[![NPM](https://nodei.co/npm/hexo-css-merge.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/hexo-css-merge/)
