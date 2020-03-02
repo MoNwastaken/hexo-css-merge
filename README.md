@@ -4,18 +4,18 @@
 [:school_satchel:NPM](https://www.npmjs.com/package/hexo-css-merge)
 <br/>This plugin is based on [hexo-clean-css](https://github.com/hexojs/hexo-clean-css) and [hexo-css-merge-script](https://github.com/hexojs/hexo-clean-css)
 # How to use
-- Install
-- Configuration
-  - Example
-  - Defaults
-  - Options
-    - Minify
-    - Path
-    - Destination
-    - Files
-- Important syntax
-  - CSS
-  - Path
+- [Install](#install)
+- [Configuration](#configuration)
+  - [Example](#example)
+  - [Defaults](#defaults)
+  - [Options](#options)
+    - [Minify](#minify)
+    - [Path](#path)
+    - [Destination](#destination)
+    - [Files](#files)
+- [Important syntax](#important-syntax)
+  - [CSS](#css)
+  - [Path](#path)
 ### Install
 In your hexo project folder issue the following command
 <br>`npm install hexo-css-merge`
