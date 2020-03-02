@@ -1,6 +1,6 @@
 {
   "name": "hexo-css-merge",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A hexo plugin to merge and minify css",
   "main": "index.js",
   "scripts": {
