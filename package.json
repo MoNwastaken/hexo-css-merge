@@ -1,6 +1,6 @@
 {
   "name": "hexo-css-merge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hexo plugin to merge and minify css",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/MoNwastaken/hexo-css-merge/issues"
   },
-  "homepage": "https://github.com/MoNwastaken/hexo-css-merge#readme"
+  "homepage": "https://github.com/MoNwastaken/hexo-css-merge#readme",
+  "keywords": [
+    "hexo",
+    "minify",
+    "merge",
+    "css"
+  ],
+  "Dependencies": {
+    "hexo-clean-css": "^1.0.0"
+  }
 }
