@@ -41,7 +41,7 @@ minify: true
 ##### Minify
 An option to turn on or off the minification of the final CSS.
 <br/>:exclamation: Disclaimer, this option needs [Hexo CleanCSS 1.0.0](https://www.npmjs.com/package/hexo-clean-css)
-<br/>Install Hexo CleanCSS `npm i hexo-css-merge`
+<br/>Install Hexo CleanCSS `npm i hexo-clean-css`
 ##### Path
 The path for the CSS files you would like to merge.
 <br/>:exclamation: Disclaimer, the plugin can only work with one path yet. You should store your CSS files in one folder.
